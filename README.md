@@ -36,8 +36,6 @@ This project aims to analyze loan data to identify factors that contribute to lo
 - Live sessions from upgrad.
 - The dataset used in this project is sourced from LendingClub.
 
-* The dataset used in this project is sourced from LendingClub.
-* This analysis is for educational purposes and should not be considered financial advice.
 
 ## Contact
 Created by swapnilrdx - feel free to contact me!
